@@ -1,7 +1,8 @@
 img{
     float: right;
-    width: 400px;
-    height: 400px;
+    width: 350px;
+    height: 350px;
+    margin-right: 20px;
   }
   img{
     margin-left: 20px;
@@ -16,13 +17,7 @@ img{
 
   }
 
-  p{
-    font-size: 150%;
-    font-weight: bolder;
-    margin: 50px 50px 50px 0px;
-    text-align: center;
-    color: rgb(251, 93, 76);
-  }
+
   
   ul{
     margin-top: 190px;
@@ -43,7 +38,7 @@ position: absolute;
 h1{
       float: left;
       /* background-color: chartreuse; */
-      width: 85%;
+      width: 70%;
       font-size:xx-large ;
       color: blue;
       margin-left: 50px;
@@ -62,11 +57,12 @@ h1{
 
 p{
       float: right;
-      width: 70%;
+      width: 67%;
       color: #000;
       text-align:justify ;
       font-weight:normal ;
-
+      font-size: 150%;
+      margin-right: 20px;
   }
   .bar1{
     width: 100%;
